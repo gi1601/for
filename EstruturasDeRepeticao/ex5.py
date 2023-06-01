@@ -2,7 +2,7 @@ homem = ""
 idadeH= 0
 mulheres= 0
 
-for pessoa in range(1, 3):
+for pessoa in range(1, 8):
     print(f" Pessoa {pessoa} ")
     nome = input("Digite o nome: ")
     idade = int(input("Digite a idade: "))
